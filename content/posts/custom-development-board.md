@@ -42,6 +42,7 @@ In the picture in the bottom left corner you can see the pads for the most impor
 
 ![IOTE.AI dev board v1 bottom](/images/devboard/iote_ai_dev_v1_bottom.jpg)
 
+![IOTE.AI dev board with Bluetooth](/images/product_shot.jpg)
 
 -Petri
 
